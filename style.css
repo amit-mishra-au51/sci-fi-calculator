@@ -1,5 +1,5 @@
-@media only screen and (max-device-width: 375px) {
-    div#wrapper {
+@media only screen and (max-device-width: 400px) {
+    div.container {
         width: 667px;
     }
 body 
